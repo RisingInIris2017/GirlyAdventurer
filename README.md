@@ -3,13 +3,10 @@
 
 A resourcepack project of Minecraft.
 
-################################################################
-
-\##             绝对禁止删除和修改此README.txt文件！           ##
+##绝对禁止删除和修改此README.txt文件！##
 
 ##Modifying or Deleting this README.txt is STRICTLY FORBIDDEN.##
 
-################################################################
 
 *~ 鸣谢 - Credits ~*
 
@@ -24,6 +21,7 @@ Freesound ID - Her sound(s) used to make...
 drotzruhn - all of 3 "eat" sounds, drink, and burp.
 
 silversatyr - hit3 sounds
+
 
 依据Freesound.org网站此页面上的说明(https://freesound.org/help/faq/#licenses)，
 
