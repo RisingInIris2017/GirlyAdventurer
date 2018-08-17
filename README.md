@@ -1,20 +1,15 @@
 # GirlyAdventurer
-一个Minecraft音效资源包项目。
+一个Minecraft音效资源包项目。/ A resourcepack project of Minecraft.
 
-A resourcepack project of Minecraft.
+**绝对禁止删除和修改资源包中的README.txt文件！/ Modifying or Deleting README.txt contained in the pack is STRICTLY FORBIDDEN.##
 
-##绝对禁止删除和修改此README.txt文件！##
+______
 
-##Modifying or Deleting this README.txt is STRICTLY FORBIDDEN.##
-
-
-*~ 鸣谢 - Credits ~*
+**\*~ 鸣谢 - Credits ~\***
 
 (按首字母排序 In alphabetical order)
 
-Freesound用户名 - 用于音效
-
-Freesound ID - Her sound(s) used to make...
+Freesound用户名(Freesound ID) - 用于音效 / Her sound(s) used to make...
 
 11linda - hit1, hit2 sounds
 
@@ -22,6 +17,7 @@ drotzruhn - all of 3 "eat" sounds, drink, and burp.
 
 silversatyr - hit3 sounds
 
+________
 
 依据Freesound.org网站此页面上的说明(https://freesound.org/help/faq/#licenses)，
 
