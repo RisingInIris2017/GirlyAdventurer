@@ -1,7 +1,9 @@
 # GirlyAdventurer
 一个Minecraft音效资源包项目。/ A resourcepack project of Minecraft.
 
-**绝对禁止删除和修改资源包中的README.txt文件！/ Modifying or Deleting README.txt contained in the pack is STRICTLY FORBIDDEN.**
+**绝对禁止删除或修改资源包中的README.txt文件！**
+
+**Modifying or Deleting README.txt contained in the pack is STRICTLY FORBIDDEN.**
 
 ______
 
