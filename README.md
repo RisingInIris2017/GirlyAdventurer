@@ -1,5 +1,6 @@
 # GirlyAdventurer
-一个Minecraft音效资源包项目。/ A resourcepack project of Minecraft.
+
+一个Minecraft音效资源包项目。/ A sound resourcepack project of Minecraft.
 
 **绝对禁止删除或修改资源包中的README.txt文件！**
 
@@ -9,7 +10,7 @@ ______
 
 **\*~ 鸣谢 - Credits ~\***
 
-(按首字母排序 In alphabetical order)
+(按首字母排序 / In alphabetical order)
 
 Freesound用户名(Freesound ID) - 用于音效 / Her sound(s) used to make...
 
